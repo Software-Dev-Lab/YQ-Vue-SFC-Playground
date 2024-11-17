@@ -8,4 +8,8 @@
 
 [02-组件共享状态的一种方式](https://play.vuejs.org/#eNrNU81um0AQfpXRXmIrFnbVnhzbKlQ5tIfWqnvkQmBsNsG7aHdwqBC3PlMveZ1KfY3OLoa4UWIpt4CQduf75v+jEWFZBocKxVwsbGpkSWCRqnIVK7kvtSGAJksomaR5onbYwtboPVwE08riJk8Mbiihyl4M9HBghC7uIxANQHQE3NuFHY1jtZh2+TkzXwj3ZZEQ8i1cr/8+/Prz8DtWTQOuGGhbpoSrxTRkfBHxIercbioireBjWsj0bhmLIbxgTgc6j+lJeDERZFOttnIX3FqteBJNrADYWe9LWaD5VpLUysZiDh5xWFIU+v6Lt5GpcNLb0xzTu2fst7Z2tlisDVo0B4zFgFFidkgdfL35ijWfB3Cvs6pg9hnwO1pdVK7GjhZVKuOyT3i+2s9+D1LtftjrmlDZvilXqGO2nh8L3s6nM60/lvs++OD9YtXyFP9XRECWJ3ncfQMGt9CLx2/f8L74A+DRW+rWunS00Wz8FOy2yPBoDMsVV+Ix9zi34JAUFV5edta2d8b6mNrLt4/hCvXCfFnwvcZekjqc0SrAIpMHsPSzQJbfjTYZmjm8K2vgHcmMG8yu4F5mlLN1NivrK8hR7nLqr6zUrrmwF727nAqfc0w5yTM69j/Wm28sem1j7T/tTpTn)
 
-[03-将插槽传递给子组件&不要在模板 ref 中使用响应式对象]()
+[03-将插槽传递给子组件]()
+
+[04-不要在模板 ref 中使用响应式对象]()
+
+[05-释放 v-for 循环的力量]()
